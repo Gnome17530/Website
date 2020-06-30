@@ -13,3 +13,17 @@ table {
 tr:nth-child(even) {
     background-color: #dddddd;
 }
+
+body {
+  background-color: lightskyblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 90px;
+}
